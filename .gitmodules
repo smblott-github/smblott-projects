@@ -1,3 +1,6 @@
 [submodule "clones/vidir"]
 	path = clones/vidir
 	url = git@github.com:trapd00r/vidir.git
+[submodule "clones/tpick"]
+	path = clones/tpick
+	url = git@github.com:smblott-github/tpick.git
