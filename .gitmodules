@@ -1,0 +1,3 @@
+[submodule "clones/vidir"]
+	path = clones/vidir
+	url = git@github.com:trapd00r/vidir.git
