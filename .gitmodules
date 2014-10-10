@@ -4,3 +4,6 @@
 [submodule "clones/tpick"]
 	path = clones/tpick
 	url = git@github.com:smblott-github/tpick.git
+[submodule "clones/zsh-syntax-highlighting"]
+	path = clones/zsh-syntax-highlighting
+	url = git://github.com/zsh-users/zsh-syntax-highlighting.git
